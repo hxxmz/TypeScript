@@ -1,8 +1,8 @@
 # TypeScript
 
-tut: https://www.youtube.com/watch?v=30LWjhZzg50
+tut-link: https://www.youtube.com/watch?v=30LWjhZzg50
 
-⌨️ startNext @ `3:19:34 - Why Interface is important`
+⌨️ startNext @ `3:35:36 - Generics`
  
 `npx tsc basics.ts` (compile .js)
 `npx ts-node basics.ts` (run .ts)
@@ -11,7 +11,6 @@ tut: https://www.youtube.com/watch?v=30LWjhZzg50
 ### Setting up TypeScript for Production/Project
 `npx tsc --init` > creates `tsconfig.ts`
 `npm init -y` > creates `package.json`
-src where we code, dist contains production files
 set `"outDir":"./" to "./dist"` to generate js in that dir.
 `npx ts -w` (watchmode) > autoupdates .js in the `outDir`
 
