@@ -2,7 +2,7 @@
 
 tut-link: https://www.youtube.com/watch?v=30LWjhZzg50
 
-⌨️ startNext @ `3:35:36 - Generics`
+⌨️ startNext @ `4:07:16 - Type Narrowing`
  
 `npx tsc basics.ts` (compile .js)
 `npx ts-node basics.ts` (run .ts)
